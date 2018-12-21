@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab Intent</string>
+    <string name="home">Home</string>
+    <string name="page2">Page 2</string>
+    <string name="page3">Page 3</string>
+    <string name="page4">Page 4</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="show_picture">Show Picture</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLab04</string>
+    <string name="sign">Sign</string>
+    <string name="home">Home</string>
+    <string name="my_university">My University</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="exit">Exit</string>
+</resources>
