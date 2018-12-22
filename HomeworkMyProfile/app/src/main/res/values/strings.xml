@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="btn_about_me">About Me</string>
+    <string name="btn_skills">My Skills</string>
+    <string name="btn_comment">Leave comment</string>
+    <string name="btn_exit">Goodbye</string>
+    <string name="profile_content">Name : Thanaphoom Babparn \n\nBachelor in Computer Engineering \n\nRajamangala University of Technology Thanyaburi</string>
+    <string name="btn_send_comment">Sent comment</string>
+    <string name="all_comment">All Comment</string>
+    <string name="thankyou">Thank you</string>
+    <string name="skill_frontend">Frontend</string>
+    <string name="skill_frontend_content">- React\n- Angular\n- Android\n- React Native\n- Ionic</string>
+    <string name="skill_backend">Backend</string>
+    <string name="skill_backend_content">- Node.js\n- Firebase\n- Java\n- PHP</string>
+</resources>
