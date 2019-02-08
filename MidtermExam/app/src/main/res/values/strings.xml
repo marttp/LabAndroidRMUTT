@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MidtermExam</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="my_name">Thanaphoom Babparn</string>
+    <string name="stuId">115810462016-1</string>
+    <string name="faculty">Computer Engineering</string>
+
+    <string name="exit">Exit</string>
+    <string name="map_process">Map Process</string>
+    <string name="togglePhoto">Show photo</string>
+
+    <string name="go_map">Go to Map</string>
+    <string name="latitude_text">latitude</string>
+    <string name="longitude_text">longitude</string>
+    <string name="location">Location</string>
+
+    <string name="area_of_square">Area of square</string>
+    <string name="width_cal">width</string>
+    <string name="height_cal">height</string>
+</resources>
