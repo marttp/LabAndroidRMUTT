@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalTest</string>
+    <string name="first_name">Firstname:</string>
+    <string name="last_name">Lastname:</string>
+    <string name="age_show">Age:</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="very_fat">อ้วนมาก (30.0 ขึ้นไป)</string>
+    <string name="fat">อ้วน (25.0-29.9)</string>
+    <string name="more_normal">น้ำหนักเกิน (23.0 - 24.9)</string>
+    <string name="normal">น้ำหนักปกติ (18.6 - 22.9)</string>
+    <string name="thin">ผอมเกินไป (น้อยกว่า 18.5)</string>
+
+    <string name="very_fat_result">อ้วนมาก</string>
+    <string name="fat_result">อ้วน</string>
+    <string name="more_normal_result">น้ำหนักเกิน</string>
+    <string name="normal_result">น้ำหนักปกติ</string>
+    <string name="thin_result">ผอมเกินไป</string>
+</resources>
